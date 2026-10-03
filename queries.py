@@ -105,6 +105,10 @@ def main():
 
 
     # ---------------------------------------------------------
+
+    print("COUNT(*) includes the NULL-padded LEFT JOIN row for Kurnool;")
+    print("COUNT(order_id) ignores the NULL order_id.")
+
     # 4. Per-region order counts
     # ---------------------------------------------------------
     print("\n=== 4. PER-REGION ORDER COUNTS ===")
