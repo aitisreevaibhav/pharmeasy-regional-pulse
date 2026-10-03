@@ -4,3 +4,6 @@
 {"timestamp": "2026-10-02T18:58:25.762032", "run_id": "2874ec39-a9f3-45ed-8a41-f2b2f0adea1c", "region": "Guntur", "decision": "approve", "reviewer_note": "Numbers checked against SQL output."}
 {"timestamp": "2026-10-02T18:58:25.762935", "run_id": "41125eb7-0dc2-4b97-abe0-e9ba7f4fa672", "region": "Guntur", "decision": "edit", "reviewer_note": "Please add category-level evidence."}
 {"timestamp": "2026-10-02T18:58:25.763296", "run_id": "c54dc094-7b1d-488b-8238-4b8de77c9b0d", "region": "Guntur", "decision": "reject", "reviewer_note": "Evidence needs further verification."}
+{"timestamp": "2026-10-03T09:00:37.031209", "run_id": "500520d6-ff08-4572-936a-4b668edaa274", "region": "Guntur", "decision": "approve", "reviewer_note": "Numbers checked against SQL output."}
+{"timestamp": "2026-10-03T09:00:37.043494", "run_id": "c74895a1-2d94-4acb-a2d2-455d07d40954", "region": "Guntur", "decision": "edit", "reviewer_note": "Please add category-level evidence."}
+{"timestamp": "2026-10-03T09:00:37.044539", "run_id": "8751b7f3-0202-47ee-adbd-00f13f747bde", "region": "Guntur", "decision": "reject", "reviewer_note": "Evidence needs further verification."}
