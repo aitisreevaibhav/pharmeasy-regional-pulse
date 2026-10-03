@@ -151,7 +151,7 @@ with col1:
         category_sales,
         names="category",
         values="sales_inr",
-        title="Sales Share by Category"
+        title="Which categories generate sales?"
     )
 
     st.plotly_chart(
@@ -192,7 +192,7 @@ fig_region = px.bar(
     region_sales,
     x="region",
     y="sales_inr",
-    title="Total Sales by Region",
+    title="Which regions generate the most sales?",
     labels={
         "region": "Region",
         "sales_inr": "Sales (INR)"
@@ -228,7 +228,7 @@ fig_trend = px.line(
     y="sales_inr",
     color="region",
     markers=True,
-    title="Monthly Sales Trend by Region",
+    title="How do sales change by month?",
     labels={
         "month": "Month",
         "sales_inr": "Sales (INR)",
