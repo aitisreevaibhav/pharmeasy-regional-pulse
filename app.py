@@ -92,15 +92,14 @@ total_orders = filtered_orders["order_id"].nunique()
 st.subheader("Executive Summary")
 
 st.write(
-    f"Total sales are INR {total_sales:,.2f} from {total_orders:,} distinct orders. "
-    f"Total profit is INR {total_profit:,.2f}. "
-    f"The dashboard shows monthly sales movement across the selected period. "
-    f"The category and regional views help identify where the sales movement is concentrated. "
-    f"Review flagged regional changes in the detail table before taking operational action."
+    f"Headline: Total sales are INR {total_sales:,.2f} from {total_orders:,} distinct orders, "
+    f"with total profit of INR {total_profit:,.2f}. "
+    f"Trend: The dashboard shows monthly sales movement across the selected period. "
+    f"Breakdown: Category and regional views show where the sales movement comes from. "
+    f"Implication: Large regional movements should be reviewed before operational action is taken. "
+    f"Action: Use the detail table and review flags to investigate the regions requiring attention."
 )
 
-
-# ---------------------------------------------------------
 # KPI CARDS
 # ---------------------------------------------------------
 
