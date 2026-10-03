@@ -1,0 +1,50 @@
+[
+  {
+    "region": "Bengaluru",
+    "Context": "Bengaluru recorded sales of INR 203,505.48 in April 2026, INR 172,929.68 in May 2026, and INR 170,294.11 in June 2026.",
+    "Insight": "April-to-May sales changed by -15.02%. May-to-June sales changed by -1.52%.",
+    "Implication": "The movement in Bengaluru should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Guntur",
+    "Context": "Guntur recorded sales of INR 62,442.27 in April 2026, INR 138,738.93 in May 2026, and INR 99,745.18 in June 2026.",
+    "Insight": "April-to-May sales changed by 122.19%. May-to-June sales changed by -28.11%.",
+    "Implication": "The movement in Guntur should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Hyderabad",
+    "Context": "Hyderabad recorded sales of INR 209,670.15 in April 2026, INR 243,825.28 in May 2026, and INR 294,088.56 in June 2026.",
+    "Insight": "April-to-May sales changed by 16.29%. May-to-June sales changed by 20.61%.",
+    "Implication": "The movement in Hyderabad should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Karimnagar",
+    "Context": "Karimnagar recorded sales of INR 49,815.71 in April 2026, INR 61,585.90 in May 2026, and INR 34,490.58 in June 2026.",
+    "Insight": "April-to-May sales changed by 23.63%. May-to-June sales changed by -44.00%.",
+    "Implication": "The movement in Karimnagar should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Tirupati",
+    "Context": "Tirupati recorded sales of INR 54,582.74 in April 2026, INR 91,083.20 in May 2026, and INR 75,530.99 in June 2026.",
+    "Insight": "April-to-May sales changed by 66.87%. May-to-June sales changed by -17.07%.",
+    "Implication": "The movement in Tirupati should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Vijayawada",
+    "Context": "Vijayawada recorded sales of INR 171,334.19 in April 2026, INR 174,863.57 in May 2026, and INR 153,849.68 in June 2026.",
+    "Insight": "April-to-May sales changed by 2.06%. May-to-June sales changed by -12.02%.",
+    "Implication": "The movement in Vijayawada should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Visakhapatnam",
+    "Context": "Visakhapatnam recorded sales of INR 134,765.29 in April 2026, INR 50,590.08 in May 2026, and INR 100,735.57 in June 2026.",
+    "Insight": "April-to-May sales changed by -62.46%. May-to-June sales changed by 99.12%.",
+    "Implication": "The movement in Visakhapatnam should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  },
+  {
+    "region": "Warangal",
+    "Context": "Warangal recorded sales of INR 100,468.14 in April 2026, INR 78,339.23 in May 2026, and INR 66,715.24 in June 2026.",
+    "Insight": "April-to-May sales changed by -22.03%. May-to-June sales changed by -14.84%.",
+    "Implication": "The movement in Warangal should be reviewed by the regional team against the underlying order and category detail before any operational action is taken."
+  }
+]
